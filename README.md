@@ -5,11 +5,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SamymaS&label=Profile%20views&color=0e75b6&style=flat" alt="SamymaS" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkheir13" alt="SamymaS" /></a> </p>
+
+<p align="center">
+    <img src="https://count.getloli.com/get/@djobbo.github.readme">
+  <h3> <p align="center"> Passages et vu de profil</h3>
+</p> 
+
 ---
 
 ### 🎮 **À propos de moi**
 
-Depuis plus de **10 ans**, je navigue entre les lignes de code, les réseaux et les jeux vidéo. À **23 ans**, je me considère avant tout comme un **curieux insatiable**, passionné par le développement et la création de solutions innovantes.   
+Depuis plus de **10 ans**, je navigue entre les lignes de code, les réseaux et les jeux vidéo. À **24 ans**, je me considère avant tout comme un **curieux insatiable**, passionné par le développement et la création de solutions innovantes.   
   
 Je suis actuellement **alternant en ingénierie logiciel** chez **CS Group** (groupe Sopra Steria), tout en poursuivant mes études en **mastère développement logiciel** au campus **Ynov Aix-en-Provence**.
 
