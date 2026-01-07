@@ -8,7 +8,7 @@
 
 <p align="center">
     <img src="https://count.getloli.com/get/@djobbo.github.readme">
-  <h3> <p align="center"> Passages et vu de profil</h3>
+  <h3> <p align="center"> Passages et vues de profil</h3>
 </p> 
 
 ---
