@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samy Boudaoud</h1>
-<h3 align="center">Alternant en Ingénierie Logiciel chez CS Group et étudiant en Mastère 1 à Ynov Aix-en-Provence</h3>
+<h3 align="center">Alternant en Ingénierie Logiciel chez CS Group et étudiant en Mastère 2 à Ynov Aix-en-Provence</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SamymaS&label=Profile%20views&color=0e75b6&style=flat" alt="SamymaS" /> </p>
