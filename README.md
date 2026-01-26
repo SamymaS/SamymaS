@@ -4,12 +4,31 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SamymaS&label=Profile%20views&color=0e75b6&style=flat" alt="SamymaS" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkheir13" alt="SamymaS" /></a> </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamymaS&theme=tokyo-night" />
+</p>
+
+
+<h3 align="center">📊 Passages et vues de profil</h3>
+<p align="center">
     <img src="https://count.getloli.com/get/@djobbo.github.readme">
-  <h3> <p align="center"> Passages et vues de profil</h3>
-</p> 
+
+</p>
+
+---
+
+## 🗂️ Sommaire
+
+- [À propos de moi](#-à-propos-de-moi)
+- [Profil & Objectif](#-profil--objectif)
+- [Compétences techniques](#-compétences-techniques)
+- [Projets phares](#-projets-phares-sélection)
+- [Expériences professionnelles](#-expériences-professionnelles)
+- [Formations](#-formations)
+- [Statistiques GitHub](#-statistiques-github)
+- [Stack technique visuelle](#-stack-technique-visuelle)
+- [Me contacter](#-me-contacter)
 
 ---
 
@@ -93,26 +112,58 @@ Digitalisation, création de modules e-learning (Java), support réseau et tél�
 
 ### 📈 Statistiques GitHub
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamymaS&show_icons=true&locale=en&layout=compact" alt="SamymaS" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamymaS&show_icons=true&theme=tokyonight" alt="SamymaS GitHub stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SamymaS&show_icons=true&locale=en" alt="SamymaS" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamymaS&" alt="SamymaS" /></p>
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamymaS&" alt="SamymaS" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamymaS&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ---
-
+<details>
 ### 🛠️ Stack technique visuelle
 
+Langages
 <p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+Mobile / OS
+<p align="left">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+</p>
+DevOps / Infra
+<p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-009688?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/MQTT-000000?style=for-the-badge&logo=eclipsemosquitto&logoColor=white"/>
+</p>
+Design
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
