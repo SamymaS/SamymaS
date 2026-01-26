@@ -127,7 +127,8 @@ Digitalisation, création de modules e-learning (Java), support réseau et tél�
 </p>
 
 ---
-<details>
+
+
 ### 🛠️ Stack technique visuelle
 
 Langages
