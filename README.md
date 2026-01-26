@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Samy Boudaoud</h1>
-<h3 align="center">Alternant en Ingénierie Logiciel chez CS Group et étudiant en Mastère 2 à Ynov Aix-en-Provence</h3>
+<h1 align="center">👋 Salut, moi c'est Samy Boudaoud</h1>
+<h3 align="center">🚀 Développeur Fullstack & IoT | Alternant chez CS GROUP | Étudiant Mastère Ynov</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SamymaS&label=Profile%20views&color=0e75b6&style=flat" alt="SamymaS" /> </p>
@@ -23,6 +23,14 @@ Je suis actuellement **alternant en ingénierie logiciel** chez **CS Group** (gr
 💡 *"I build it, I run it."* – Debug, prod, j’apprends à chaque bug et chaque déploiement.
 
 ---
+
+### 📌 Projets GitHub sélectionnés
+
+- 🔧 [**PHP ORM personnalisé**](https://github.com/SamymaS/ORMProject) – ORM maison avec Repository/Adapter
+- 🧠 [**Assistant vocal AI**](https://github.com/SamymaS/ham) – Flask + spaCy + OpenAI
+- 🌊 [**Sea Riders - Site vitrine**](https://github.com/SamymaS/seariders-vitrine) – Projet éco-responsable 
+- 🧪 [**TPs IoT / Smart Home**](https://github.com/SamymaS/Projet-Home-StartKit) – Projets IoT en C++ / MQTT en lien avec [**Mod BUS UART -I2C link**](https://github.com/SamymaS/smart-home-modbus-UART-)
+
 
 ### 🚀 **Projets phares**
 
@@ -84,6 +92,18 @@ Le projet inclut la configuration du serveur, le déploiement sur l’hébergeur
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
+### 🛠️ Autres Compétences techniques
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-000000?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+
+
 ---
 
 ### 📈 **Statistiques GitHub**
@@ -93,14 +113,24 @@ Le projet inclut la configuration du serveur, le déploiement sur l’hébergeur
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamymaS&" alt="SamymaS" /></p>
 
----
+![Samy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamymaS&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamymaS&layout=compact&theme=tokyonight)
+![Streak Stats](https://streak-stats.demolab.com?user=SamymaS&theme=tokyonight)
 
-### 📫 **Contact**
-
-- **Email :** [samyboudaoud95@gmail.com](mailto:samyboudaoud95@gmail.com)  
-- **LinkedIn :** [Samy Boudaoud](https://www.linkedin.com/in/samy-boudaoud/)  
-- **GitHub :** [SamymaS](https://github.com/SamymaS)
 
 ---
 
-Merci d'avoir pris le temps de lire mon profil ! Je reste disponible pour toute question, échange ou collaboration.
+### 📫 **Contact moi**
+
+Je suis toujours ouvert aux discussions, retours et projets collectifs.  
+ [samyboudaoud95@gmail.com](mailto:samyboudaoud95@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/samy-boudaoud)
+
+
+- 🔗 **Email :** [samyboudaoud95@gmail.com](mailto:samyboudaoud95@gmail.com)  
+- 🔗 **LinkedIn :** [Samy Boudaoud](https://www.linkedin.com/in/samy-boudaoud/)  
+- 🔗 **GitHub :** [SamymaS](https://github.com/SamymaS) (vous êtes ici 📍)
+
+---
+
+Merci pour ta visite 🙏
