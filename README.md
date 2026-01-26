@@ -4,9 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SamymaS&label=Profile%20views&color=0e75b6&style=flat" alt="SamymaS" /> </p>
 
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamymaS&theme=tokyo-night" />
+  <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=SamymaS&theme=tokyo-night&hide_border=true&area=true&border_radius=15"/></a>
 </p>
 
 
