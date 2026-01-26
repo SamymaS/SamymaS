@@ -24,112 +24,104 @@ Je suis actuellement **alternant en ingénierie logiciel** chez **CS Group** (gr
 
 ---
 
-### 📌 Projets GitHub sélectionnés
+### 🎯 Profil & Objectif
+Ingénieur Logiciel diplômé d'un Mastère 2 Expert Développement Logiciel, Mobile & IoT, je dispose d'un profil polyvalent couvrant l'ensemble du cycle de développement :
+- 🔧 Backend robuste
+- 🎨 Frontend interactif
+- 📡 Systèmes embarqués (IoT)
+- 🖥️ Logiciels métiers
 
-- 🔧 [**PHP ORM personnalisé**](https://github.com/SamymaS/ORMProject) – ORM maison avec Repository/Adapter
-- 🧠 [**Assistant vocal AI**](https://github.com/SamymaS/ham) – Flask + spaCy + OpenAI
-- 🌊 [**Sea Riders - Site vitrine**](https://github.com/SamymaS/seariders-vitrine) – Projet éco-responsable 
+Passionné par la technique et l'innovation, je cherche à mettre à profit cette vision globale au sein de projets ambitieux à forte valeur ajoutée.
+
+---
+
+### 💻 Compétences Techniques
+**Langages :** Java, Kotlin, C++, Python, PHP, HTML/CSS, JavaScript, Dart  
+**Frameworks & Outils :** Spring, Flask, Qt, Flutter, Node.js, Git (GitLab/GitHub), Docker, Ansible, Jira, CI/CD  
+**Bases de données :** MySQL, PostgreSQL, PL/SQL  
+**Systèmes & IoT :** Linux, ESP32, Arduino, Raspberry Pi, MQTT, Modbus RTU, BLE, UART  
+**Architecture & Conception :** Micro-services, Event-driven, UML, API REST/OpenAPI, Design Patterns, UX/UI (Figma, Rive)
+
+---
+
+### 🚀 Projets phares (sélection)
+
+- 🔧 [**PHP ORM personnalisé**](https://github.com/SamymaS/ORMProject) – ORM maison avec Repository/Adapter  
+- 🧠 [**Assistant vocal AI**](https://github.com/SamymaS/ham) – Flask + spaCy + OpenAI  
+- 🌊 [**Sea Riders - Site vitrine**](https://github.com/SamymaS/seariders-vitrine) – Projet éco-responsable  
 - 🧪 [**TPs IoT / Smart Home**](https://github.com/SamymaS/Projet-Home-StartKit) – Projets IoT en C++ / MQTT en lien avec [**Mod BUS UART -I2C link**](https://github.com/SamymaS/smart-home-modbus-UART-)
 
-
-### 🚀 **Projets phares**
-
-#### **🌊 Sea Riders – Site web éco-responsable**  
-> Développement d’un site vitrine et e-commerce pour une startup spécialisée dans la vente de planches à voile en matériaux recyclés. Le projet soutient la protection des océans en collaboration avec des ONG et associations.  
-
-- **Technologies :** PHP, MySQL, JavaScript, Vue.js, React (prévue pour l’extension mobile)
-- **Objectifs :** Création d’un configurateur 3D pour la personnalisation des produits, amélioration de l’expérience utilisateur et gestion écologique des contenus.
-- **Lien :** [Sea Riders Project](https://www.seariders.fr/)
-
----
-
-#### **🗣 Assistant vocal backend avec API NLP**  
-> Création d’un assistant vocal basé sur un système de backend Flask, interagissant avec plusieurs APIs (OpenWeatherMap, OpenAI, Spotify) pour répondre à des commandes vocales transmises depuis un frontend React.
-
-- **Technologies :** Flask, Python, spaCy (NLP), OpenAI, PostgreSQL, APIs REST
-- **Fonctionnalités :** Interprétation des commandes en langage naturel, intégration de text-to-speech, communication avec des APIs externes.
-- **Architecture :** Backend et frontend hébergés sur des serveurs distincts avec échanges JSON sécurisés.
+#### 🔥 Autres projets notables
+- **Sameva** : App de productivité gamifiée (quêtes, IA anti-triche, Rive)  
+- **COCI** : Covoiturage pour la Côte-d'Ivoire (API robuste + Flutter)  
+- **Minecraft Moddé** : Déploiement, modpack ATM10, Minestrator  
+- **CRUD Airbnb** : Python, Flask, SQLAlchemy, JWT  
+- **Ynov Express** : Web app avec architecture orientée services et RBAC  
+- **Photo Gallery App** : Ionic + Leaflet, géoloc et cartes  
+- **Action ou Vérité** : Jeu mobile avec paiement Stripe  
+- **TikTok → Minecraft** : Événements TikTok Live connectés à un serveur Minecraft via API temps réel  
+- **Puissance 4 Websocket** : Jeu multijoueur Node.js + WebSockets  
+- **CAROBOT** : Robot Arduino suiveur de ligne, préhension d'objet  
+- **B4SKET G4ME** : Jeu physique supervisé via RPi + C++/Python/PHP
 
 ---
 
-#### **🛠 ORM PHP personnalisé avec Repository et Adapter Patterns**  
-> Développement d’un ORM maison pour simplifier les interactions avec une base de données MySQL, tout en respectant une architecture logicielle propre.
+### 🧑‍💼 Expériences professionnelles
 
-- **Technologies :** PHP, PDO, MySQL
-- **Patterns utilisés :** Repository, Adapter, Query Builder
-- **Fonctionnalités :** Gestion dynamique des requêtes SQL, opérations CRUD centralisées, validation et gestion d’exceptions.
+**Ingénieur Logiciel - Alternance | CS GROUP** (2024 – aujourd’hui)  
+Développement backend Java/Kotlin (MobilitX), architecture modulaire et événementielle, supervision, CI/CD, résolution de tickets à forte criticité.
 
----
+**Développeur Fullstack Salesforce - Alternance | Niji** (2022 – 2023)  
+Développement d'applications Salesforce, HTML/CSS/JS/Apex, CI/CD, relation client.
 
-#### **🎮 Serveur Minecraft moddé avec portforwarding**  
-> Gestion et administration d’un serveur Minecraft utilisant le modpack **AllTheMods10**.  
-Le projet inclut la configuration du serveur, le déploiement sur l’hébergeur **Minestrator**, et l’optimisation pour un usage collaboratif.
+**Développeur Logiciel Fullstack - Alternance | REZZO Telecom** (2021 – 2022)  
+C++ Qt (frontend) + Flask (backend), traitement de fichiers CSV/XLSX, PL/SQL, Git + AWS CodeCommit.
 
-- **Technologies :** Java 17, Docker, scripts bash, config réseau (portforwarding)
-- **Objectif :** Maintenir un serveur stable et performant pour accueillir plusieurs joueurs sur un modpack complexe.
+**Technicien Informatique - Stage | ORTEC** (2020)  
+Digitalisation, création de modules e-learning (Java), support réseau et télétravail.
 
 ---
 
-#### **📝 Projet CRUD Airbnb en Python**  
-> Réalisation d’un projet de plateforme de type Airbnb, basé sur un modèle REST CRUD, avec intégration d’entités complexes et gestion des avis utilisateurs.
+### 🏫 Formations
 
-- **Technologies :** Python, Flask, SQLAlchemy, JWT (JSON Web Tokens)
-- **Fonctionnalités :** API REST sécurisée, gestion multi-entités, ajout de fonctionnalités de recherche avancée.
-
----
-
-### 🔧 **Compétences techniques**
-
-#### **Langages et frameworks**
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
-
-### 🛠️ Autres Compétences techniques
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-000000?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
-
+- 🎓 Mastère Expert Dev Logiciel & IoT — Ynov Aix (2024–2026)  
+- 🎓 Bachelor RIL — CESI Aix (2021–2022)  
+- 🎓 BTS SN IR — Vauvenargues (2019–2021)  
+- 🎓 BAC STI2D SIN — Vauvenargues (2019)
 
 ---
 
-### 📈 **Statistiques GitHub**
+### 📈 Statistiques GitHub
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamymaS&show_icons=true&locale=en&layout=compact" alt="SamymaS" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SamymaS&show_icons=true&locale=en" alt="SamymaS" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamymaS&" alt="SamymaS" /></p>
 
-![Samy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamymaS&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamymaS&layout=compact&theme=tokyonight)
-![Streak Stats](https://streak-stats.demolab.com?user=SamymaS&theme=tokyonight)
+---
 
+### 🛠️ Stack technique visuelle
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MQTT-000000?style=for-the-badge&logo=eclipsemosquitto&logoColor=white"/>
+</p>
 
 ---
 
-### 📫 **Contact moi**
+### 📫 Me contacter
 
-Je suis toujours ouvert aux discussions, retours et projets collectifs.  
- [samyboudaoud95@gmail.com](mailto:samyboudaoud95@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/samy-boudaoud)
-
-
-- 🔗 **Email :** [samyboudaoud95@gmail.com](mailto:samyboudaoud95@gmail.com)  
-- 🔗 **LinkedIn :** [Samy Boudaoud](https://www.linkedin.com/in/samy-boudaoud/)  
-- 🔗 **GitHub :** [SamymaS](https://github.com/SamymaS) (vous êtes ici 📍)
+- ✉️ [samyboudaoud95@gmail.com](mailto:samyboudaoud95@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/samy-boudaoud)  
+- 🐙 [GitHub](https://github.com/SamymaS)
 
 ---
 
